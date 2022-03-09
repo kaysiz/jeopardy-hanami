@@ -1,0 +1,3 @@
+project=jeopardy_hanami
+test=rspec
+template=erb
