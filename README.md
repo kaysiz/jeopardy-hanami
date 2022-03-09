@@ -34,9 +34,9 @@ How to prepare (create and migrate) DB for `development` and `test` environments
 # Ideas
 
 A user:
-[ ] can register
-[ ] can login
-[ ] can add answers in different categories
+- [ ] can register
+- [ ] can login
+- [ ] can add answers in different categories
 
 A board includes:
 
